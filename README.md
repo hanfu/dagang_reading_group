@@ -2,7 +2,8 @@
 大刚读书会
 
 # schedule
-### week1_20190712
-Jeffrey Bussgang - Mastering the VC Game_ A Venture Capital Insider Reveals How to Get from Start-up to IPO on Your Terms-Portfolio Trade (2011)
+### week1_20190712 
 
-创业, 如何搞定风投
+[Mastering the VC Game](MasteringtheVCGame_compressed.pdf)
+
+[创业, 如何搞定风投](创业，如何搞定风投.pdf) 
