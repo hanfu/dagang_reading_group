@@ -10,4 +10,5 @@
 
 
 ### week1_20190719 
-[Entering StartUpLand]Entering_StartUpLand.pdf
+
+[Entering StartUpLand](Entering_StartUpLand.pdf)
