@@ -9,6 +9,6 @@
 [创业, 如何搞定风投](创业，如何搞定风投.pdf) 
 
 
-### week1_20190719 
+### week2_20190719 
 
 [Entering StartUpLand](Entering_StartUpLand.pdf)
