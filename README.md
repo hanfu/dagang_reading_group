@@ -16,6 +16,6 @@
 
 ### week3_20190726
 
-Crossing the Chasm(Crossing-the-Chasm.pdf)
+[Crossing the Chasm](Crossing-the-Chasm.pdf)
 
 [跨越鸿沟](跨越鸿沟.pdf)
