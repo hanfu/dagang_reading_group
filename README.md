@@ -12,3 +12,10 @@
 ### week2_20190719 
 
 [Entering StartUpLand](Entering_StartUpLand.pdf)
+
+
+### week3_20190726
+
+Crossing the Chasm(Crossing-the-Chasm.pdf)
+
+[跨越鸿沟](跨越鸿沟.pdf)
