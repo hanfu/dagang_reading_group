@@ -19,3 +19,10 @@
 [Crossing the Chasm](Crossing-the-Chasm.pdf)
 
 [跨越鸿沟](跨越鸿沟.pdf)
+
+
+### week4_20190730
+
+[The Tipping Point](The Tipping Point.pdf)
+
+[引爆点](引爆点.pdf)
