@@ -23,6 +23,6 @@
 
 ### week4_20190730
 
-[The Tipping Point](The Tipping Point.pdf)
+[The Tipping Point](The_Tipping_Point.pdf)
 
 [引爆点](引爆点.pdf)
